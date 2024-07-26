@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruti Srivastava</h1>
 <h3 align="center">A dedicated Learner</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
 
 - 🌱 I’m currently learning **Deep Learning, Tensorflow, Natural Language Processing, Cloud Computing**
 
