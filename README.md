@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Srivastava</h1>
 <h3 align="center">A dedicated Learner</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif”>
-
+<video  alt=“coding” width=“400” src=“https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif”>
+</video>
 - 🌱 I’m currently learning **Deep Learning, Tensorflow, Natural Language Processing, Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shruti0702](https://github.com/Shruti0702)
